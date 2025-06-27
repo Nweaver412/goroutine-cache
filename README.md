@@ -1,0 +1,1 @@
+Little project to do some playing with how memcache like redis works and also play with goroutines. May try to implement something a little larger into the cleanup system to do it systematically. least accessed files get deleted after x time
